@@ -21,14 +21,14 @@ body {
 .menu {
     display: flex;
     justify-content: center;
-    margin-top: 5.5%;
+    margin-top: 7.5%;
 }
 
 .menu__list {
 
     list-style: none;
     font-size: 75px;
-    /*min-width: 500px;*/
+    min-width: 415px;
     margin-left: 5%;
 }
 
@@ -261,7 +261,7 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     /*margin: 70px;*/
-    margin-bottom: 50px;
+    padding-bottom: 50px;
     justify-content: center;
 }
 
